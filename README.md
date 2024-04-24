@@ -93,6 +93,4 @@ Jefferson Ricardo Fonseca - arielfonsek5@gmail.com
 Este projeto é licenciado sob a MIT License.
 
 
-Esse README.md agora inclui instruções detalhadas sobre como instalar a aplicação e criar um instalador usando o Inno Setup.
-
 
